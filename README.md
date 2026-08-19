@@ -69,7 +69,7 @@ Rather than stopping at visualization, the product aims to help users understand
 
 ### Interactive Figma Prototype
 
-[View Interactive Prototype](PASTE-FIGMA-LINK-HERE)
+[View Interactive Prototype](https://rush-flick-23474810.figma.site/))
 
 The prototype demonstrates the core product experience across the five major modules.
 
